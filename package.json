@@ -1,5 +1,5 @@
 {
-	"name": "chat",
+	"name": "experience",
 	"description": "READTalk Chat with other users in real-time using Durable Objects and PartyKit.",
 	"cloudflare": {
 		"label": "READTalk Chat App",
